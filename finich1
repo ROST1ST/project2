@@ -1,0 +1,58 @@
+
+<html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="CSS/style.css">
+     
+    <title>Проект1</title>
+</head>
+<header>
+    <div class="text">
+        <img src="https://i.postimg.cc/3Jq7BY9G/Untitled.png" height="100px"/>
+        <b><i><p style="color: darkorchid;font-size: 50px;">ДЛЯ ВАС</p></i></b>
+       
+    </div>
+    <nav>
+        <a class ="link"href="">Головна</a>
+        <a class ="link"href="">Каталог</a>
+        <a class ="link"href="">Карти</a>
+    </nav>
+    <hr>
+
+</header>
+<main>
+    <h1>МАГАЗИН ТОВАРІВ ДЛЯ ГРИ</h1>
+    <img src="https://i.postimg.cc/59gRr9TF/images.png" width="1200px" height="150px"/>
+     
+    <img src="https://i.postimg.cc/vHR5mq1w/images.jpg" width="100%" height="700px"/>
+</main>
+
+<footer>
+    <img class="foto"src="https://i.postimg.cc/Fs0QjFBG/67305725702862.webp" width="100%"/>
+    <section>
+        <article>
+            <h4>Про нас:</h4><br/>
+            <b>Roblox.Market.com </b><br/> 
+            <img src="https://i.postimg.cc/jS6FdnZt/image-5-1.png"/> 
+            <img src="https://i.postimg.cc/dQyPc3Pt/image-6.png"/>
+            <img src="https://i.postimg.cc/PqRcBsSw/image-7.png"/>
+        </article>
+        <article>
+            <h4>Контактна інформація:</h4><br/>
+            +38(050)0795460 <br/>
+            +38(067)0795460 <br/>
+            +38(044)0795460
+        </article>
+        <article>
+            <h4>Користувачам:</h4><br/>
+                Доставка<br/>
+                Оплата<br/>
+                Повернення
+        </article>
+    
+</section>
+</footer>
